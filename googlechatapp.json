@@ -31,7 +31,7 @@
             "order": 1
         },
         "code": {
-            "description": "Code to receive authorization token.",
+            "description": "Code to receive authorization token. Read README.md on how to obtain this.",
             "data_type": "password",
             "required": true,
             "order": 2
